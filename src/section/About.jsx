@@ -20,7 +20,7 @@ const About = () => {
             <p className="headtext">Hi, I'm Manorath</p>
             <p className="subtext">
              
-I’m Manorath, an CSE undergraduate at IIT Pune, currently <b>entering</b> my third year. I’m passionate about solving real-world problems through code and love building impactful tech solutions that blend software, AI, and innovation. With a strong foundation in data structures, full-stack development, and AI/ML tools, I aim to create technology that drives meaningful change.
+I’m Manorath, an CSE undergraduate at IIIT Pune, currently <b>entering</b> my third year. I’m passionate about solving real-world problems through code and love building impactful tech solutions that blend software, AI, and innovation. With a strong foundation in data structures, full-stack development, and AI/ML tools, I aim to create technology that drives meaningful change.
             </p>
           </div>
           <div className="absolute inset-x-0 pointer-evets-none -bottom-4 h-1/2 sm:h-1/3 bg-gradient-to-t from-indigo" />
@@ -81,7 +81,7 @@ I’m Manorath, an CSE undergraduate at IIT Pune, currently <b>entering</b> my t
           <div className="z-10 w-[50%]">
             <p className="headtext"> IST — Ideas Travel Faster</p>
             <p className="subtext">
-          Currently pursuing my B.Tech in CSE at IIT Pune, while working on ideas that transcend boundaries. Always open to remote opportunities, creative collaborations, and solving meaningful problems through code.
+          Currently pursuing my B.Tech in CSE at IIIT Pune, while working on ideas that transcend boundaries. Always open to remote opportunities, creative collaborations, and solving meaningful problems through code.
             </p>
           </div>
           <figure className="absolute left-[30%] top-[10%]">

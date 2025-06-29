@@ -16,7 +16,7 @@ const HeroText = () => {
 
   const handleDownloadCV = () => {
     const link = document.createElement("a");
-    link.href = "/assets/Manorath_Resume.pdf"; // Adjust path to your actual CV
+    link.href = "/assets/112315102.pdf"; // Adjust path to your actual CV
     link.download = "Manorath_Resume.pdf";
     document.body.appendChild(link);
     link.click();

@@ -222,13 +222,13 @@ const ContactForm = () => {
               </p>
               <div className="flex flex-wrap justify-center gap-4">
                 <a
-                  href="https://www.linkedin.com/in/Manorath-chugh-80a53a362/"
+                  href="https://www.linkedin.com/in/manorath-chugh-b52356353/"
                   className="px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white rounded-lg transition-colors duration-300 flex items-center gap-2"
                 >
                   LinkedIn
                 </a>
                 <a
-                  href="https://github.com/student-Manorath"
+                  href="https://github.com/manorath295"
                   className="px-6 py-3 bg-gray-800 hover:bg-gray-900 text-white rounded-lg transition-colors duration-300 flex items-center gap-2"
                 >
                   GitHub
